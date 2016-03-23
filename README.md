@@ -1,28 +1,21 @@
 # MusicalEnigma
 
-Scratch pad for Ruby Celluloid.
+Scratch pad for [Ruby Celluloid](https://celluloid.io/).
 
 * [A gentle introduction to actor-based concurrency](https://practicingruby.com/articles/gentle-intro-to-actor-based-concurrency)
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Execute:
 
-```ruby
-gem 'musical_enigma'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install musical_enigma
+    $> bundle
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+$> bin/console
+pry> dining
+```
 
 ## Development
 
